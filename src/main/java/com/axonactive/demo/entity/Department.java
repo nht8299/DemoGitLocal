@@ -23,4 +23,6 @@ public class Department {
 
     @Enumerated(EnumType.STRING)
     private Location location;
+
+    private String departermentName;
 }
